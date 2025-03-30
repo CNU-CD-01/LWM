@@ -7,6 +7,5 @@ AI 도구와 브레인스토밍을 활용한 문제 정의 구체화 및 아이�
 - 활동개요: 브레인 스토밍 결과 리포트 작성
 - 발표 URL: [유튜브 링크](https://www.youtube.com/watch?v=o42u4MGgM0M)
 - 제출물: 3주차 발표, 브레인 스토밍 결과
-- PR제출 : [3주차](https://github.com/CNU-CD-01/LWM/pull/9)
   
 
