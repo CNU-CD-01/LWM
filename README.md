@@ -26,7 +26,7 @@ AI 도구와 브레인스토밍을 활용한 문제 정의 구체화 및 아이�
 
 ## 7주차 활동
 - 활동 개요 : 유스케이스 정의
-- 발표 URL : [유튜브 링크]
+- 발표 URL : [유튜브 링크](https://www.youtube.com/watch?v=LlizDiH2w0c)
 - 
 
 
