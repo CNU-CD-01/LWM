@@ -24,10 +24,15 @@ AI 도구와 브레인스토밍을 활용한 문제 정의 구체화 및 아이�
 브레인스토밍을 활용한 결과 LWM 파운데이션 모델에서의 동적 시나리오 분석을 통해 기차에서의 통신 성능 증진 목표.
 브레인스토밍을 활용한 결과 LWM 파운데이션 모델에서의 동적 시나리오 분석을 통해 기차에서의 통신 성능 증진 목표.
 
+## 7주차 활동
+- 활동 개요 : 유스케이스 정의
+- 발표 URL : [유튜브 링크]
+- 
+
 
 ## 4주차 활동
 - 활동개요 : 문제정의서 작성
-- 발표 URL : [유브 링크](https://youtu.be/tsbrW3tkgmY)
+- 발표 URL : [유튜브 링크](https://youtu.be/tsbrW3tkgmY)
 - 제출물 : [문제정의서](https://github.com/CNU-CD-01/LWM/blob/main/docs/4%EC%A3%BC%EC%B0%A8/3%EC%A1%B0-4%EC%A3%BC%EC%B0%A8-LWM-%EB%AC%B8%EC%A0%9C%EC%A0%95%EC%9D%98%EC%84%9C.pdf), [발표표자료](https://github.com/CNU-CD-01/LWM/blob/main/docs/4%EC%A3%BC%EC%B0%A8/3%EC%A1%B0-4%EC%A3%BC%EC%B0%A8-LWM-%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
 - [PR 링크](https://github.com/CNU-CD-01/LWM/pull/15)
 
