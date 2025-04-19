@@ -56,10 +56,6 @@ AI 도구와 브레인스토밍을 활용한 문제 정의 구체화 및 아이�
 - 제출물 : [연구개요서](https://github.com/CNU-CD-01/LWM/blob/main/docs/1%EC%A3%BC%EC%B0%A8/%EC%97%B0%EA%B5%AC%EA%B0%9C%EC%9A%94%EC%84%9C_%EC%A2%85%ED%95%A9%EC%84%A4%EA%B3%84_3%EC%A1%B0.docx), [발표 자료](https://github.com/CNU-CD-01/LWM/blob/main/docs/1%EC%A3%BC%EC%B0%A8/%EC%A2%85%ED%95%A9%EC%84%A4%EA%B3%84_1w.pdf)
 
 
-## 3주차 활동
-- 활동개요 : 브레인 스토밍 결과 리포트 작성
-- 발표 URL : [유튜브 링크](https://www.youtube.com/watch?v=o42u4MGgM0M)
-- 제출물 : [브레인스토밍](https://github.com/CNU-CD-01/LWM/blob/main/docs/3%EC%A3%BC%EC%B0%A8/3%EC%A1%B0-3%EC%A3%BC%EC%B0%A8-LWM-%EB%B8%8C%EB%A0%88%EC%9D%B8%EC%8A%A4%ED%86%A0%EB%B0%8D.docx), [발표 자료](https://github.com/CNU-CD-01/LWM/blob/main/docs/3%EC%A3%BC%EC%B0%A8/3%EC%A1%B0_3%EC%A3%BC%EC%B0%A8_LWM_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
-- [PR 링크](https://github.com/CNU-CD-01/LWM/pull/9)
+
 
 
