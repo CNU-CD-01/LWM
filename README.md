@@ -1,4 +1,4 @@
-# 거대 무선 채널 기반 미래 채널 예측 및 통신 환경 분류 연구
+![image](https://github.com/user-attachments/assets/92f4df31-83d0-4a1a-97b2-c50a9ccb11c1)# 거대 무선 채널 기반 미래 채널 예측 및 통신 환경 분류 연구
 y = Hx + n에 대해서
 y : 수신신호
 x : 송신신호
@@ -22,12 +22,13 @@ n : 잡음
 ## 활동 개요
 AI 도구와 브레인스토밍을 활용한 문제 정의 구체화 및 아이디어 발산 수렴,
 브레인스토밍을 활용한 결과 LWM 파운데이션 모델에서의 동적 시나리오 분석을 통해 기차에서의 통신 성능 증진 목표.
-브레인스토밍을 활용한 결과 LWM 파운데이션 모델에서의 동적 시나리오 분석을 통해 기차에서의 통신 성능 증진 목표.
+
 
 ## 6주차 활동
 - 활동 개요 : 유스케이스 정의
 - 발표 URL : [유튜브 링크](https://www.youtube.com/watch?v=LlizDiH2w0c)
-- 제출물 : [발표자료](https://github.com/CNU-CD-01/LWM/blob/week7/docs/6%EC%A3%BC%EC%B0%A8/LWM%206%EC%A3%BC%EC%B0%A8%20%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
+- 제출물 : [유스케이스]( https://github.com/CNU-CD-01/LWM/blob/week7/docs/6%EC%A3%BC%EC%B0%A8/3%EC%A1%B0-6%EC%A3%BC%EC%B0%A8-LWM-%EC%9C%A0%EC%8A%A4%EC%BC%80%EC%9D%B4%EC%8A%A4.docx),[발표자료](https://github.com/CNU-CD-01/LWM/blob/week7/docs/6%EC%A3%BC%EC%B0%A8/LWM%206%EC%A3%BC%EC%B0%A8%20%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
+- [PR링크](https://github.com/CNU-CD-01/LWM/pull/18)
 
 
 ## 4주차 활동
