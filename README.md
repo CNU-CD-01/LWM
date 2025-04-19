@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/92f4df31-83d0-4a1a-97b2-c50a9ccb11c1)# 거대 무선 채널 기반 미래 채널 예측 및 통신 환경 분류 연구
+
 y = Hx + n에 대해서
 y : 수신신호
 x : 송신신호
