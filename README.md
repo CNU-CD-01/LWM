@@ -21,14 +21,20 @@ n : 잡음
 # 주차 활동
 ## 활동 개요
 AI 도구와 브레인스토밍을 활용한 문제 정의 구체화 및 아이디어 발산 수렴,
-브레인스토밍을 활용한 결과 LWM 파운데이션 모델에서의 동적 시나리오 분석을 통해 기차에서의 통신 성능 증진 목표.
+브레인스토밍을 활용한 결과 LWM 파운데이션 모델에서의 동적 시나리오 분석을 통해 기차에서의 통신 성능 증진 목표
+
+## 13주차 활동
+- 활동개요 : 테스트결과 작성
+- 발표 URL : [유튜브 링크](https://www.youtube.com/watch?v=VSQx0pYNonw)
+- 제출물 : [발표자료](https://github.com/CNU-CD-01/LWM/blob/main/docs/13%EC%A3%BC%EC%B0%A8/3%EC%A1%B0-13%EC%A3%BC%EC%B0%A8-LWM-%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
+- [PR 링크](https://github.com/CNU-CD-01/LWM/pull/23)
 
 ## 11주차 활동
 - 활동 개요 : 테스트케이스 작성
 - 발표 URL : [유튜브 링크](https://www.youtube.com/watch?v=gh3n27Bzltg)
 - 제출물 : [테스트케이스](https://github.com/CNU-CD-01/LWM/blob/week11/docs/8%EC%A3%BC%EC%B0%A8/3%EC%A1%B0-LWM-%EC%8B%9C%ED%80%80%EC%8A%A4%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8-%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf),[발표자료](https://github.com/CNU-CD-01/LWM/blob/week11/docs/8%EC%A3%BC%EC%B0%A8/3%EC%A1%B0-LWM-%EC%8B%9C%ED%80%80%EC%8A%A4%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8-%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
 - [11주차 PR 링크](https://github.com/CNU-CD-01/LWM/pull/21)
-- [10주차 PR 링킄](https://github.com/CNU-CD-01/LWM/pull/20)
+- [10주차 PR 링크](https://github.com/CNU-CD-01/LWM/pull/20)
 ## 8주차 활동
 - 활동 개요 : 시퀀스다이어그램 작성
 - 발표 URL : [유튜브 링크](https://youtu.be/loGeexPk2PI)
